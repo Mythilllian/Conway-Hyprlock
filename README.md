@@ -6,8 +6,11 @@ It has Hyprlock run a CPP script at a certain interval and pipes its console out
 
 Note that if Hyprlock is already set up, this will overwrite any existing configuration.
 
-`git clone https://www.github.com/Mythilllian/Conway-Hyprlock`
-`source Conway-Hyprlock/setup.sh`
+```
+git clone https://www.github.com/Mythilllian/Conway-Hyprlock.git
+cd Conway-Hyprlock
+./setup.sh
+```
 
 # Configuration
 
