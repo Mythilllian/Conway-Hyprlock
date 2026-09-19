@@ -1,0 +1,14 @@
+{
+    "density": 20,
+    "entropy": 10,
+    "columns": 91,
+    "rows": 64,
+    "exclude_enabled": true,
+    "exclude": {
+        "start_row": 25,
+        "end_row": 33,
+        "start_col": 40,
+        "end_col": 50
+    },
+    "hide_lonely_entropy_tiles": true
+}
